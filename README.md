@@ -1,4 +1,4 @@
-# 📊 Loan Approval Prediction  
+# 📊 Loan Approval Prediction  - Predição de Aprovação de Empréstimo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-ScikitLearn-blue?style=for-the-badge&logo=scikitlearn" />
